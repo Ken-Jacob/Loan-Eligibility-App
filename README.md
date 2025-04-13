@@ -74,7 +74,7 @@ Based on the prediction from a trained Random Forest Classifier.
 
 ## 📡 Live Deployment
 
-Access the live app at: [[Streamlit Cloud Link](https://your-streamlit-app-link)](https://loan-eligibility-app-acolewcb9jn5pppugqwddn.streamlit.app/)
+Access the live app at: https://loan-eligibility-app-acolewcb9jn5pppugqwddn.streamlit.app/
 
 ---
 
