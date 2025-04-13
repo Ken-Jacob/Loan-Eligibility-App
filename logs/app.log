@@ -1,0 +1,5 @@
+2025-04-12 23:44:44,514 - ERROR - Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\jacob\Algonquin\Sem 2\Machine learning\Final Project\loan eligibility app\app.py", line 42, in <module>
+    model = pickle.load(open("model.pkl", "rb"))
+EOFError: Ran out of input
