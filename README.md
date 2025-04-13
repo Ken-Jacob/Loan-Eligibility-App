@@ -29,8 +29,8 @@ LoanMate is a user-friendly Streamlit web application that predicts whether a lo
 
 1. Clone the repository:
     ```
-    git clone https://github.com/Ken-Jacob/loan-eligibility-app.git
-    cd loan-eligibility-app
+    git clone https://github.com/Ken-Jacob/Loan-Eligibility-App.git
+    cd Loan-Eligibility-App
     ```
 
 2. Install dependencies:
